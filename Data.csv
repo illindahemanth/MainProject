@@ -1,0 +1,256 @@
+Name,Country,Company
+A15,Malaysia,Zomato
+A155,Algeria,Zomato
+A13,Japan,Wow!Momo
+A38,India,Wipro
+A54,Malaysia,Wipro
+A70,Japan,Wipro
+A86,Indonesia,Wipro
+A27,Malaysia,Unacademy
+A20,Malaysia,Toppr
+A50,India,TeraData
+A66,Indonesia,TeraData
+A82,Malaysia,TeraData
+A98,India,TeraData
+A182,Mexico,TeraData
+A187,Mexico,TeraData
+A192,Mexico,TeraData
+A197,Mexico,TeraData
+A205,Costa Rica,TeraData
+A45,India,TekSystems
+A61,China,TekSystems
+A77,Malaysia,TekSystems
+A93,India,TekSystems
+A40,Japan,Tech Mahindra
+A56,China,Tech Mahindra
+A72,Malaysia,Tech Mahindra
+A88,India,Tech Mahindra
+A36,Indonesia,TCS
+A52,Japan,TCS
+A68,India,TCS
+A84,China,TCS
+A100,Japan,TCS
+A21,India,Swiggy
+A104,Papua New Guinea,Stripe
+A111,Samoa,Stripe
+A118,Solomon Islands,Stripe
+A125,Australia,Stripe
+A132,New Zealand,Stripe
+A208,US,Stripe
+A213,US,Stripe
+A218,Italy,Stripe
+A223,Italy,Stripe
+A28,India,Shuttl
+A19,Indonesia,ShareChat
+A159,Burkina,ShareChat
+A34,China,Robinhood
+A170,Burundi,Robinhood
+A173,Central African Republic,Robinhood
+A178,US,Robinhood
+A232,Germany,Robinhood
+A238,Germany,Robinhood
+A103,Palau,Rivian
+A110,Papua New Guinea,Rivian
+A117,Samoa,Rivian
+A124,Solomon Islands,Rivian
+A131,Australia,Rivian
+A207,Mexico,Rivian
+A212,Mexico,Rivian
+A217,Germany,Rivian
+A222,Germany,Rivian
+A227,Germany,Rivian
+A17,China,RazorPay
+A157,Benin,RazorPay
+A29,China,Postman
+A16,India,Paytm
+A156,Angola,Paytm
+A14,Indonesia,Ola Cabs
+A4,Indonesia,Netflix
+A10,Malaysia,Netflix
+A140,Burundi,Netflix
+A146,Angola,Netflix
+A152,Cape Verde,Netflix
+A242,Peru,Netflix
+A248,Brazil,Netflix
+A254,Peru,Netflix
+A226,France,N26
+A221,France,N26
+A216,France,N26
+A107,Australia,N26
+A114,New Zealand,N26
+A121,Palau,N26
+A128,Papua New Guinea,N26
+A135,Algeria,N26
+A211,Cuba,N26
+A5,Malaysia,Microsoft
+A11,India,Microsoft
+A141,Cameroon,Microsoft
+A147,Benin,Microsoft
+A153,Central African Republic,Microsoft
+A243,Argentina,Microsoft
+A249,Chile,Microsoft
+A255,Argentina,Microsoft
+A43,India,McKesson
+A59,Malaysia,McKesson
+A75,Japan,McKesson
+A91,Indonesia,McKesson
+A26,Indonesia,Klub
+A105,Samoa,Klarna
+A112,Solomon Islands,Klarna
+A119,Australia,Klarna
+A126,New Zealand,Klarna
+A133,Palau,Klarna
+A209,Canada,Klarna
+A214,Canada,Klarna
+A219,Switzerland,Klarna
+A224,Switzerland,Klarna
+A30,Japan,Kisan Network
+A31,Indonesia,Instamojo
+A37,Malaysia,Infosys
+A53,Indonesia,Infosys
+A69,China,Infosys
+A85,Japan,Infosys
+A101,India,Infosys
+A44,China,IBM
+A60,India,IBM
+A76,Indonesia,IBM
+A92,Malaysia,IBM
+A179,Canada,IBM
+A184,Canada,IBM
+A189,Canada,IBM
+A194,Canada,IBM
+A199,Canada,IBM
+A202,Mexico,IBM
+A233,Italy,IBM
+A42,Malaysia,Hitachi
+A58,Indonesia,Hitachi
+A74,China,Hitachi
+A90,Japan,Hitachi
+A41,Indonesia,Hexaware
+A57,Japan,Hexaware
+A73,India,Hexaware
+A89,China,Hexaware
+A39,China,HCL
+A55,India,HCL
+A71,Indonesia,HCL
+A87,Malaysia,HCL
+A6,India,Google
+A12,China,Google
+A142,Cape Verde,Google
+A148,Botswana,Google
+A154,South Africa,Google
+A244,Brazil,Google
+A250,Peru,Google
+A1,India,Facebook
+A7,China,Facebook
+A137,Benin,Facebook
+A143,Central African Republic,Facebook
+A149,Burkina,Facebook
+A239,Argentina,Facebook
+A245,Chile,Facebook
+A251,Argentina,Facebook
+A32,Malaysia,EasyDiner
+A230,United Kingdom,EasyDiner
+A236,Germany,EasyDiner
+A108,New Zealand,Dream11
+A115,Palau,Dream11
+A122,Papua New Guinea,Dream11
+A129,Samoa,Dream11
+A136,Angola,Dream11
+A33,India,DoorDash
+A169,Burkina,DoorDash
+A172,Cape Verde,DoorDash
+A175,Costa Rica,DoorDash
+A176,Cuba,DoorDash
+A177,Mexico,DoorDash
+A231,France,DoorDash
+A237,France,DoorDash
+A18,Japan,DailyHunt
+A158,Botswana,DailyHunt
+A24,China,Cron AI
+A49,Malaysia,Cognizant
+A65,Japan,Cognizant
+A81,Indonesia,Cognizant
+A97,Malaysia,Cognizant
+A181,Cuba,Cognizant
+A186,Cuba,Cognizant
+A191,Cuba,Cognizant
+A196,Cuba,Cognizant
+A201,Cuba,Cognizant
+A204,Canada,Cognizant
+A48,Indonesia,Cisco
+A64,China,Cisco
+A80,Japan,Cisco
+A96,Indonesia,Cisco
+A46,China,Ciber
+A62,Japan,Ciber
+A78,India,Ciber
+A94,China,Ciber
+A35,Japan,Chime
+A171,Cameroon,Chime
+A174,South Africa,Chime
+A106,Solomon Islands,Bytedance
+A113,Australia,Bytedance
+A120,New Zealand,Bytedance
+A127,Palau,Bytedance
+A134,Papua New Guinea,Bytedance
+A210,Costa Rica,Bytedance
+A215,Costa Rica,Bytedance
+A220,United Kingdom,Bytedance
+A225,United Kingdom,Bytedance
+A102,New Zealand,BYJU's
+A109,Palau,BYJU's
+A116,Papua New Guinea,BYJU's
+A123,Samoa,BYJU's
+A130,Solomon Islands,BYJU's
+A3,Japan,Apple
+A9,Indonesia,Apple
+A139,Burkina,Apple
+A145,Algeria,Apple
+A151,Cameroon,Apple
+A241,Chile,Apple
+A247,Argentina,Apple
+A253,Chile,Apple
+A2,China,Amazon
+A8,Japan,Amazon
+A138,Botswana,Amazon
+A144,South Africa,Amazon
+A150,Burundi,Amazon
+A240,Brazil,Amazon
+A246,Peru,Amazon
+A252,Brazil,Amazon
+A51,China,Algoworks
+A67,Malaysia,Algoworks
+A83,India,Algoworks
+A99,China,Algoworks
+A183,US,Algoworks
+A188,US,Algoworks
+A193,US,Algoworks
+A198,US,Algoworks
+A206,Cuba,Algoworks
+A23,India,AirTable
+A161,Cameroon,AirTable
+A163,Central African Republic,AirTable
+A165,Algeria,AirTable
+A168,Botswana,AirTable
+A229,Switzerland,AirTable
+A235,France,AirTable
+A22,China,AirGarage
+A160,Burundi,AirGarage
+A162,Cape Verde,AirGarage
+A164,South Africa,AirGarage
+A166,Angola,AirGarage
+A167,Benin,AirGarage
+A228,Italy,AirGarage
+A234,Switzerland,AirGarage
+A47,Japan,Accenture
+A63,India,Accenture
+A79,China,Accenture
+A95,Japan,Accenture
+A180,Costa Rica,Accenture
+A185,Costa Rica,Accenture
+A190,Costa Rica,Accenture
+A195,Costa Rica,Accenture
+A200,Costa Rica,Accenture
+A203,US,Accenture
+A25,Japan,Aadhar

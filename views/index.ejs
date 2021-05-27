@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <!-- <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+      var workH=[200,500,80,150,300,1000];
+      function drawChart() {
+
+        var data = google.visualization.arrayToDataTable([
+          ['Continent', 'Number of Aluminis'],
+          ['Africa',    workH[0] ],
+          ['Asia',      workH[1]],
+          ['Europe',  workH[2]],
+          ['North America', workH[3]],
+          ['Oceania',workH[4]],
+          ['South America', workH[5]]
+        ]);
+
+        var options = {
+          title: 'Continent Division',
+          is3D:true,
+          pieSliceText:'value',
+          width:'50%',
+          height:300,
+          chartArea:{left:'10%',top:'10%',width:'100%',height:'100%'}
+                  
+        };
+
+        var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+
+        chart.draw(data, options);
+      }
+      // google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart2);
+      var workH2=[100,20,40,60,80];
+      function drawChart2() {
+
+        var data2 = google.visualization.arrayToDataTable([
+          ['Category', 'Number of Alumnis'],
+          ['Service',    workH2[0] ],
+          ['Unicorn',      workH2[1]],
+          ['FAANMG',  workH2[2]],
+          ['Established Startups',workH2[3]],
+          ['Startups',    workH2[4]]
+        ]);
+
+        var options2 = {
+          title: 'Company Division',
+          is3D:true,
+          pieSliceText:'value',
+          width:'50%',
+          height:300,
+          chartArea:{left:'10%',top:'10%',width:'100%',height:'100%'}
+        };
+
+        var chart2 = new google.visualization.PieChart(document.getElementById('piechart2'));
+
+        chart2.draw(data2, options2);
+      }
+    </script> -->
+    <style>
+      table{
+        width: 100%;
+      }
+      td{
+        width: 50%;
+      }
+    </style>
+</head>
+<body>
+   <table class="columns">
+    <tr>
+      <td><div id="piechart" style="border: 1px solid #ccc"></div></td>
+      <td><div id="piechart2" style="border: 1px solid #ccc"></div></td>
+    </tr>
+  </table>
+
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+      var workH=[200,500,80,150,300,1000];
+      function drawChart() {
+
+        var data = google.visualization.arrayToDataTable([
+          ['Continent', 'Number of Aluminis'],
+          ['Africa',    <%=Africa%> ],
+          ['Asia',      <%=Asia%>],
+          ['Europe',  <%=Europe%>],
+          ['North America',<%=NorthAmerica%>],
+          ['Oceania',<%=Oceania%>],
+          ['South America', <%=SouthAmerica%>]
+        ]);
+
+        var options = {
+          title: 'Continent Division',
+          is3D:true,
+          pieSliceText:'value',
+          width:'50%',
+          height:300,
+          chartArea:{left:'10%',top:'10%',width:'100%',height:'100%'}
+                  
+        };
+
+        var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+
+        chart.draw(data, options);
+      }
+      // google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart2);
+      var workH2=[100,20,40,60,80];
+      function drawChart2() {
+
+        var data2 = google.visualization.arrayToDataTable([
+          ['Category', 'Number of Alumnis'],
+          ['Service',    <%=Service%> ],
+          ['Unicorn',      <%=Unicorn%>],
+          ['FAMANG',  <%=FAMANG%>],
+          ['Established Startups',<%=EstablishedStartups%>],
+          ['Startups',    <%=Startups%>]
+        ]);
+
+        var options2 = {
+          title: 'Company Division',
+          is3D:true,
+          pieSliceText:'value',
+          width:'50%',
+          height:300,
+          chartArea:{left:'10%',top:'10%',width:'100%',height:'100%'}
+        };
+
+        var chart2 = new google.visualization.PieChart(document.getElementById('piechart2'));
+
+        chart2.draw(data2, options2);
+      }
+    </script>
+  
+</body>
+</html>
+
